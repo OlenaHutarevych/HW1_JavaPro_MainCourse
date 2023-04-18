@@ -1,4 +1,9 @@
 package com.example.projecthw1;
+//Домашнее задание:
+
+// Создать свое расширение веб сервера на java spring.
+// Нужно написать подпрограмму, которая будет відавать случайную строку с жизнеутверждающей цитатой из списка
+// (можно хранить в контроллере в коллекции) при сетевом запросе пользователя.
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
